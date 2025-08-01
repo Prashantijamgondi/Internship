@@ -1,0 +1,18 @@
+## Maze Generator and Solver
+
+● Description: Build a program that generates random mazes and solves them using
+techniques like Depth-First Search (DFS) or Breadth-First Search (BFS).
+● Challenges:
+○ Represent the maze as a grid using nested lists.
+○ Implement logic to ensure generated mazes are solvable.
+○ Visualize the maze in the terminal with clear paths and walls.
+● Skills: Recursive algorithms, graph theory, and problem-solving.
+Restriction: No use of external libraries for visualization or graphical rendering
+(like matplotlib, pygame).
+● Reason: This restriction ensures that students focus on core algorithmic logic rather
+than visualizing the maze. The main objective is to implement algorithms like
+Depth-First Search (DFS) or Breadth-First Search (BFS) to generate and solve mazes
+programmatically. The visualization of the maze is secondary and can be achieved in a
+simple text-based format (like using 1 for walls and 0 for paths).
+● Learning Outcome: Students will learn about graph traversal algorithms,
+backtracking, and recursive thin
