@@ -1,0 +1,8 @@
+### Custom Encryption-Decryption System
+
+#### Description: Develop a program that encrypts and decrypts messages using custom encryption algorithms like substitution ciphers or matrix transformations.
+- Challenges:
+-- Create a robust algorithm for encryption and decryption.
+-- Handle edge cases (e.g., special characters, spaces).
+-- Optionally, implement multi-layer encryption.
+- Skills: Algorithm design, string manipulation, and logical reasoning.
